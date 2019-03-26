@@ -1,0 +1,15 @@
+D:\Develop\Global\Warehouse\Warehouse\bin\Debug\netcoreapp2.2\Warehouse.deps.json
+D:\Develop\Global\Warehouse\Warehouse\bin\Debug\netcoreapp2.2\Warehouse.runtimeconfig.json
+D:\Develop\Global\Warehouse\Warehouse\bin\Debug\netcoreapp2.2\Warehouse.runtimeconfig.dev.json
+D:\Develop\Global\Warehouse\Warehouse\bin\Debug\netcoreapp2.2\Warehouse.dll
+D:\Develop\Global\Warehouse\Warehouse\bin\Debug\netcoreapp2.2\Warehouse.pdb
+D:\Develop\Global\Warehouse\Warehouse\obj\Debug\netcoreapp2.2\Warehouse.csprojAssemblyReference.cache
+D:\Develop\Global\Warehouse\Warehouse\obj\Debug\netcoreapp2.2\Warehouse.csproj.CoreCompileInputs.cache
+D:\Develop\Global\Warehouse\Warehouse\obj\Debug\netcoreapp2.2\Warehouse.AssemblyInfoInputs.cache
+D:\Develop\Global\Warehouse\Warehouse\obj\Debug\netcoreapp2.2\Warehouse.AssemblyInfo.cs
+D:\Develop\Global\Warehouse\Warehouse\obj\Debug\netcoreapp2.2\Warehouse.dll
+D:\Develop\Global\Warehouse\Warehouse\obj\Debug\netcoreapp2.2\Warehouse.pdb
+D:\Develop\Global\Warehouse\Warehouse\bin\Debug\netcoreapp2.2\Warehouse.xml
+D:\Develop\Global\Warehouse\Warehouse\obj\Debug\netcoreapp2.2\Warehouse.RazorAssemblyInfo.cache
+D:\Develop\Global\Warehouse\Warehouse\obj\Debug\netcoreapp2.2\Warehouse.RazorAssemblyInfo.cs
+D:\Develop\Global\Warehouse\Warehouse\obj\Debug\netcoreapp2.2\Warehouse.RazorTargetAssemblyInfo.cache
